@@ -1,0 +1,124 @@
+{
+  "top_scorers": [
+    {
+      "rank": 1,
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "goals": 36
+    },
+    {
+      "rank": 2,
+      "player": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "goals": 30
+    },
+    {
+      "rank": 3,
+      "player": "Ivan Toney",
+      "team": "Brentford",
+      "goals": 20
+    },
+    {
+      "rank": 4,
+      "player": "Mohamed Salah",
+      "team": "Liverpool",
+      "goals": 19
+    },
+    {
+      "rank": 5,
+      "player": "Callum Wilson",
+      "team": "Newcastle United",
+      "goals": 18
+    },
+    {
+      "rank": 6,
+      "player": "Marcus Rashford",
+      "team": "Manchester United",
+      "goals": 17
+    },
+    {
+      "rank": 7,
+      "player": "Gabriel Martinelli",
+      "team": "Arsenal",
+      "goals": 15
+    },
+    {
+      "rank": 8,
+      "player": "Ollie Watkins",
+      "team": "Aston Villa",
+      "goals": 15
+    },
+    {
+      "rank": 9,
+      "player": "Martin Ødegaard",
+      "team": "Arsenal",
+      "goals": 15
+    },
+    {
+      "rank": 10,
+      "player": "Bukayo Saka",
+      "team": "Arsenal",
+      "goals": 14
+    },
+    {
+      "rank": 11,
+      "player": "Alexis Mac Allister",
+      "team": "Brighton & Hove Albion",
+      "goals": 12
+    },
+    {
+      "rank": 12,
+      "player": "James Maddison",
+      "team": "Leicester City",
+      "goals": 10
+    },
+    {
+      "rank": 13,
+      "player": "Rodrigo",
+      "team": "Leeds United",
+      "goals": 10
+    },
+    {
+      "rank": 14,
+      "player": "Harvey Barnes",
+      "team": "Leicester City",
+      "goals": 10
+    },
+    {
+      "rank": 15,
+      "player": "Eberechi Eze",
+      "team": "Crystal Palace",
+      "goals": 10
+    },
+    {
+      "rank": 16,
+      "player": "Phil Foden",
+      "team": "Manchester City",
+      "goals": 10
+    },
+    {
+      "rank": 17,
+      "player": "Gabriel Jesus",
+      "team": "Arsenal",
+      "goals": 10
+    },
+    {
+      "rank": 18,
+      "player": "Darwin Núñez",
+      "team": "Liverpool",
+      "goals": 9
+    },
+    {
+      "rank": 19,
+      "player": "Kai Havertz",
+      "team": "Chelsea",
+      "goals": 7
+    },
+    {
+      "rank": 20,
+      "player": "Danny Ings",
+      "team": "West Ham United",
+      "goals": 8
+    }
+  ]
+}
